@@ -1,6 +1,6 @@
 # Hello there 👋
 
-This is the development repository of challonortheast.com
+This is the development repository for challonortheast.com
 
 <!--
 **challonortheast/challonortheast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
